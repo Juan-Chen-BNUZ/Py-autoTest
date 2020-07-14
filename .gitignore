@@ -1,0 +1,9 @@
+*.pyc
+*.log
+__pycache__
+.idea
+<<<<<<< HEAD
+=======
+/.pytest_cache/
+/test_report/
+>>>>>>> 4ecf11f61d068bb3d95b2cdfadc20314c1548c47
