@@ -53,7 +53,4 @@ $ python run_tests.py -m debug  (调试模式)
  - 3、用例完善
  - 4、该框架灵活性比较低，可能需要大改，主要是在conftest.py文件的逻辑(可能是我还没吃透=- =)。就是因为这个问题，登录态才迟迟解决不了
 
-# Py-autoTest
-
-# Py-autoTest
 
